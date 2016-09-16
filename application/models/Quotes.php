@@ -24,7 +24,7 @@ class Quotes extends CI_Model {
 		array('id' => '6', 'who' => 'Isaac Asimov', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
 			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
 		array('id' => '7', 'who' => 'Justin Hutchet', 'mug' => 'avatar.png', 'where' => '/comp4711/wisdom',
-			'what' => 'Water is wet. huehuehue')
+			'what' => 'Water is wet.')
 	);
 
 	// Constructor
